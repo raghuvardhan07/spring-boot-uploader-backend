@@ -12,4 +12,4 @@ This is a Spring Boot exploration project :)
 
 ![App Screenshot](./images/BeanContainer.png)
 
-[Frontend GitHub-Repo]("https://github.com/raghuvardhan07/spring-boot-uploader-frontend")
+[Frontend-GitHub-Repo](https://github.com/raghuvardhan07/spring-boot-uploader-frontend)
