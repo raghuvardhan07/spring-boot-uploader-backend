@@ -11,3 +11,5 @@ This is a Spring Boot exploration project :)
 ## Beans and Endpoints
 
 ![App Screenshot](./images/BeanContainer.png)
+
+[Frontend GitHub-Repo]("https://github.com/raghuvardhan07/spring-boot-uploader-frontend")
