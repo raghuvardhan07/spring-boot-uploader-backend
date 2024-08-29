@@ -6,8 +6,8 @@ This is a Spring Boot exploration project :)
 
 ## Frontend
 
-![App Screenshot](./server/cloudstorage/images/Frontend.png)
+![App Screenshot](./images/Frontend.png)
 
 ## Beans and Endpoints
 
-![App Screenshot](./server/cloudstorage/images/BeanContainer.png)
+![App Screenshot](./images/BeanContainer.png)
